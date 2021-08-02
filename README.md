@@ -22,10 +22,10 @@ training takes  > 10 mins
 
 
 ## Git LFS
-`git lfs track data.tar.gz`  
-`git add .gitattributes`
+`git lfs track data.zip`  
+`git add .gitattributes`  
 
-`git add data.tar.gz`  
+`git add data.zip`  
 `git commit -m "Add data zip file"`  
 
 The data folder is ~10MB. Git LFS is not needed yet.  
