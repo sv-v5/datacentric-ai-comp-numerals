@@ -22,7 +22,7 @@ training takes  > 10 mins
 
 
 ## Git LFS
-`git lfs track "data.tar.gz"`  
+`git lfs track data.tar.gz`  
 `git add .gitattributes`
 
 `git add data.tar.gz`  
